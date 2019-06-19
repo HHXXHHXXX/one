@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/25626/Desktop/apache-jmeter-5.1.1/lib/junit/jmeterTest.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/com.opensource.jmete/jmeterTest.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/com.opensource.jmete/.project"/>
+        <javaElement handleIdentifier="=com.opensource.jmete/src"/>
+        <file path="/com.opensource.jmete/.classpath"/>
+    </selectedElements>
+</jardesc>
